@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Cloudmersive/Cloudmersive.Nodejs.OCR.Example/issues"
   },
-  "homepage": "https://github.com/Cloudmersive/Cloudmersive.Nodejs.OCR.Example#readme"
+  "homepage": "https://github.com/Cloudmersive/Cloudmersive.Nodejs.OCR.Example#readme",
+  "dependencies": {
+    "cloudmersive-ocr-api-client": "^1.3.1"
+  }
 }
