@@ -1,3 +1,5 @@
+const fs = require('fs');
+
 var CloudmersiveOcrApiClient = require('cloudmersive-ocr-api-client');
 var defaultClient = CloudmersiveOcrApiClient.ApiClient.instance;
 
